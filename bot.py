@@ -142,4 +142,4 @@ async def on_message(message):
                     await message.channel.send("네?")
                 else :
                     await message.channel.send("어... 모르겠어요!")
-client.run("OTMwNDI5MTU0MTExOTQ2NzUz.Yd1vrA.JXl1Iy7QaJclj8LwhI9tF8PEppo")
+client.run("OTMwNDI5MTU0MTExOTQ2NzUz.Yd1vrA.Q57MXKuitDCHtQqkyBMiEeRLny4")
